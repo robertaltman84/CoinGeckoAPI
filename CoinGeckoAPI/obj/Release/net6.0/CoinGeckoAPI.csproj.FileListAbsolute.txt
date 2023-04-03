@@ -1,0 +1,12 @@
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\bin\Release\net6.0\CoinGeckoAPI.deps.json
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\bin\Release\net6.0\CoinGeckoAPI.dll
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\bin\Release\net6.0\CoinGeckoAPI.pdb
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.AssemblyInfo.cs
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.dll
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\refint\CoinGeckoAPI.dll
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\CoinGeckoAPI.pdb
+C:\Users\rober\source\repos\CoinGeckoAPI\CoinGeckoAPI\obj\Release\net6.0\ref\CoinGeckoAPI.dll
